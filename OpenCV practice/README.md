@@ -6,3 +6,5 @@ UI framework: pyqt5  5.15.1
 
 ### Execute
 <code> python start.py </code>
+
+NOTES: This is a class practice. Pictures in this file are only used 
